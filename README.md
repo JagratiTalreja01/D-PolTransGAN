@@ -131,6 +131,6 @@ This code is built on [MT_GAN (PyTorch)](https://github.com/NUAA-RS/MT_GAN/tree/
 
 ## Citation
 J. Talreja, T. S. Gebre and L. Hashemi-Beni, "D-PolTransGAN: Scattering Guided Hybrid Transformer-GAN for SAR-Optical Image Translation using Dual Polarization SAR," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2026.3691677.
-keywords: {Synthetic aperture radar;Modeling;Floods;Polarization;Specific absorption rate;Translation;Generative adversarial networks;Scattering;Transformers;Water;SAR-to-Optical Image Translation;Transformers;Generative Adversarial Networks (GANs);Dual Polarization (VV and VH);Deep Learning},
+
 
 
