@@ -10,8 +10,8 @@ The code is built on [MT_GAN (PyTorch)](https://github.com/NUAA-RS/MT_GAN) and t
 4. [Train](#train)
 5. [Test](#test)
 6. [Results](#results)
-7. [Acknowledgements](#acknowledgements)
-8. [Citation](#Citation)
+7. [Citation](#Citation)
+8. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -126,9 +126,6 @@ Cd to 'src', run the following scripts.
 ![LPIPS_Comparisons](./Figures/LPIPS_Comparisons.PNG)
 
 
-## Acknowledgements
-This code is built on [MT_GAN (PyTorch)](https://github.com/NUAA-RS/MT_GAN/tree/main) and [CycleGAN-PyTorch](https://junyanz.github.io/CycleGAN/). We thank the authors for sharing their codes.
-
 ## Citation
 If you find the code helpful in your research or work, please cite the following papers.
 ```
@@ -144,6 +141,9 @@ If you find the code helpful in your research or work, please cite the following
   doi={10.1109/JSTARS.2026.3691677}}
 
 ```
+
+## Acknowledgements
+This code is built on [MT_GAN (PyTorch)](https://github.com/NUAA-RS/MT_GAN/tree/main) and [CycleGAN-PyTorch](https://junyanz.github.io/CycleGAN/). We thank the authors for sharing their codes.
 
 
 
